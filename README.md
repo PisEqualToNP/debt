@@ -2,9 +2,11 @@
 
 # CripplingDebtors
 
-Money? who ever said money is easy to manage? We all have those moment where we forget (or try to forget) that we owe someone money. Additionally, it feels worse if we forget that someone else owes us money. Thankfully, 
-#CripplingDebtors, manages, organizers, and notifies you on all your debt related problems. It offer you an easy to use interface in which you can list all your debts and all your debtors with corresponding payment deadlines.
-It has built-in with a automated notification feature that reminds on these matters.
+Ever since Charlie was a boy, he always found himself in a particular predicament. No matter the amount of money he made, he was always grounded by crippling debt. Who could blame him for arriving late for payments to the loan sharks he so mistakenly befriended? Backstabbed and betrayed by the burden of illicit interest and ravenous returns, all hope seemed lost. 
+
+*Edit*
+We're proud to say that Charlie is now debt free! Thanks to the revolutionary technology of Crippling Debt, Charlie can now manage, organize, and be notified of all his debt related problems. CD is an all-in-on web app tha offers you an easy to use interface in which you can list all your debts and all your debtors with corresponding payment deadlines.
+It has built-in with a automated notification feature that keeps you alerted no matter where you are!
 
 ## Getting Started
 
